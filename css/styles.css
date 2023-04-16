@@ -19,7 +19,7 @@
 
 @font-face {
     font-family: "aileron";
-    src: url("/l.woff") format("woff2");
+    src: url("../l.woff") format("woff2");
 }
 
 body {
