@@ -5,10 +5,12 @@
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+- [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -38,6 +40,10 @@ Users should be able to:
 ![](/Screenshorts/Screenshot%20(32).png)
 ![](/Screenshorts/Screenshot%20(34).png)
 
+### Links
+
+- Solution URL: [Explore the GitHub Repository](https://github.com/Kunalshakya/Clone-of-Finology-Dashboard)
+- Live Site URL: [ View the live website](https://kunalshakya.github.io/Clone-of-Finology-Dashboard/)
 
 ## My process
 
@@ -57,4 +63,10 @@ The project's layout is quite intricate due to the inclusion of cards and images
 
 ## Author
 
-- GitHub - [Kunal Shakya](https://github.com/Kunalshakya)
+- GitHub - [@Kunalshakay](https://github.com/Kunalshakya)
+- LinkedIn - [@kunal-shakya](https://www.linkedin.com/in/kunal-shakya-59323a259/)
+- Frontend Mentor - [@Kunalshakya](https://www.frontendmentor.io/profile/Kunalshakya)
+
+## Acknowledgments
+
+Like always, my gratitute goes to my amazing guys at [Frontend Mentor](https://www.frontendmentor.io/challenges) who are working effortlessly to put this challenges together to help Frontend Developers get practical knowledge while building out these projects.
